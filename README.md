@@ -10,6 +10,7 @@
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -33,6 +34,7 @@
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
