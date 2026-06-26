@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KumkumRathore28/DSA-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
