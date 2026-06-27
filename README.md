@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -154,6 +158,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
