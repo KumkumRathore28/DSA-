@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -174,4 +175,8 @@
 | [0100-same-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
