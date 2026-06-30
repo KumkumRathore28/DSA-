@@ -33,6 +33,7 @@
 | [0007-reverse-integer](https://github.com/KumkumRathore28/DSA-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -193,4 +197,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
