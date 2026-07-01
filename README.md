@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -85,6 +86,7 @@
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -136,6 +139,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
 ## Quickselect
@@ -201,4 +205,8 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
