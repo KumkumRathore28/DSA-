@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
@@ -93,6 +95,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
