@@ -25,6 +25,7 @@
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
+| [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
