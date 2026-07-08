@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KumkumRathore28/DSA-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KumkumRathore28/DSA-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
@@ -268,5 +270,6 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KumkumRathore28/DSA-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KumkumRathore28/DSA-/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
