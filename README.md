@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/KumkumRathore28/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/KumkumRathore28/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
@@ -153,6 +154,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KumkumRathore28/DSA-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
