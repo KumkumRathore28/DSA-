@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
@@ -111,6 +112,7 @@
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
