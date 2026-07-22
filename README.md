@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KumkumRathore28/DSA-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KumkumRathore28/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KumkumRathore28/DSA-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
