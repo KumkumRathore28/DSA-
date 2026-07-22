@@ -2,22 +2,22 @@ class Solution {
 public:
     bool detectCapitalUse(string word) {
 
-        int capital = 0;
+        int upper = 0;
 
         for (int i = 0; i < word.size(); i++) {
-            if (word[i] >= 'A' && word[i] <= 'Z') {
-                capital++;
+            if (isupper(word[i])) {
+                upper++;
             }
         }
 
-        if (capital == word.size())
+        if (upper == word.size())
             return true;
 
 
-        if (capital == 0)
+        if (upper == 0)
             return true;
 
-        if (capital == 1 && word[0] >= 'A' && word[0] <= 'Z')
+        if (upper == 1 && isupper(word[0]))
             return true;
 
         return false;
