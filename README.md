@@ -35,6 +35,7 @@
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
