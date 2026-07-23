@@ -227,6 +227,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
@@ -253,6 +255,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -302,6 +306,7 @@
 | [0008-string-to-integer-atoi](https://github.com/KumkumRathore28/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/KumkumRathore28/DSA-/tree/master/0520-detect-capital) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
