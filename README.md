@@ -340,4 +340,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KumkumRathore28/DSA-/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
