@@ -60,6 +60,7 @@
 | [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/KumkumRathore28/DSA-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
