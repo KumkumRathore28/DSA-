@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KumkumRathore28/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KumkumRathore28/DSA-/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
@@ -89,6 +90,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumkumRathore28/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -302,6 +304,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KumkumRathore28/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumkumRathore28/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
