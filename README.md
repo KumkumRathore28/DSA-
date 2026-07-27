@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/KumkumRathore28/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KumkumRathore28/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
@@ -147,6 +148,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KumkumRathore28/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -185,6 +187,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KumkumRathore28/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/KumkumRathore28/DSA-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
