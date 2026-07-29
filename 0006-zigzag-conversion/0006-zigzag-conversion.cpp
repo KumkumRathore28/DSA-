@@ -11,7 +11,6 @@ public:
         bool goingDown = false;
 
         for (char c : s) {
-
             rows[currRow] += c;
 
             if (currRow == 0 || currRow == numRows - 1)
@@ -20,7 +19,7 @@ public:
             currRow += goingDown ? 1 : -1;
         }
 
-        string ans;
+        string ans = "";
 
         for (string row : rows)
             ans += row;
