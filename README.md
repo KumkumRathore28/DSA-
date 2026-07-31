@@ -63,6 +63,7 @@
 | [0007-reverse-integer](https://github.com/KumkumRathore28/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KumkumRathore28/DSA-/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0172-factorial-trailing-zeroes) |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -332,6 +334,7 @@
 | [0008-string-to-integer-atoi](https://github.com/KumkumRathore28/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/KumkumRathore28/DSA-/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
@@ -360,6 +363,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
