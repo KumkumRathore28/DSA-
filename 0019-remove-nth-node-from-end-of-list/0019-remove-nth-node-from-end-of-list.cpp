@@ -12,7 +12,7 @@ public:
             fast = fast->next;
         }
 
-        while (fast) {
+        while (fast != NULL) {
             fast = fast->next;
             slow = slow->next;
         }
