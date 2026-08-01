@@ -45,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
+| [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KumkumRathore28/DSA-/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KumkumRathore28/DSA-/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
