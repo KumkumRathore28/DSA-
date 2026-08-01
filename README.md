@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/KumkumRathore28/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/KumkumRathore28/DSA-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KumkumRathore28/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0039-combination-sum) |
@@ -127,6 +128,7 @@
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KumkumRathore28/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/KumkumRathore28/DSA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KumkumRathore28/DSA-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KumkumRathore28/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
