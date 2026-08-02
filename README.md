@@ -49,6 +49,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
@@ -86,6 +87,7 @@
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -411,4 +414,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
