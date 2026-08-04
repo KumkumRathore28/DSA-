@@ -91,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KumkumRathore28/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KumkumRathore28/DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KumkumRathore28/DSA-/tree/master/0055-jump-game) |
@@ -142,6 +143,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KumkumRathore28/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KumkumRathore28/DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
@@ -352,6 +354,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumkumRathore28/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/KumkumRathore28/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/KumkumRathore28/DSA-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KumkumRathore28/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0020-valid-parentheses) |
@@ -415,4 +418,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KumkumRathore28/DSA-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
