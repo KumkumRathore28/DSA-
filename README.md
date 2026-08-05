@@ -35,6 +35,7 @@
 | [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
@@ -135,6 +136,7 @@
 | [0063-unique-paths-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -287,6 +289,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
@@ -314,6 +317,7 @@
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
@@ -425,4 +429,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumkumRathore28/DSA-/tree/master/0005-longest-palindromic-substring) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
