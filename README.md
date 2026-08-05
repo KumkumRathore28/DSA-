@@ -50,6 +50,7 @@
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
+| [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
@@ -138,6 +139,7 @@
 | [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -433,4 +437,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
