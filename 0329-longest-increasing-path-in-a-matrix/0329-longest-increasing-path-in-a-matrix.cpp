@@ -5,28 +5,23 @@ public:
 
     int dfs(vector<vector<int>>& matrix, int i, int j) {
 
-        if (dp[i][j] != -1)
+        if (dp[i][j] != 0)
             return dp[i][j];
+
+        int dx[4] = {1,-1,0,0};
+        int dy[4] = {0,0,1,-1};
 
         int ans = 1;
 
-        int dir[4][2] = {
-            {-1,0},
-            {1,0},
-            {0,-1},
-            {0,1}
-        };
+        for (int k = 0; k < 4; k++) {
 
-        for (auto &d : dir) {
+            int ni = i + dx[k];
+            int nj = j + dy[k];
 
-            int x = i + d[0];
-            int y = j + d[1];
+            if (ni >= 0 && nj >= 0 && ni < m && nj < n &&
+                matrix[ni][nj] > matrix[i][j]) {
 
-            if (x >= 0 && x < m &&
-                y >= 0 && y < n &&
-                matrix[x][y] > matrix[i][j]) {
-
-                ans = max(ans, 1 + dfs(matrix, x, y));
+                ans = max(ans, 1 + dfs(matrix, ni, nj));
             }
         }
 
@@ -38,7 +33,7 @@ public:
         m = matrix.size();
         n = matrix[0].size();
 
-        dp.assign(m, vector<int>(n, -1));
+        dp.assign(m, vector<int>(n, 0));
 
         int ans = 0;
 
