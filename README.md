@@ -41,6 +41,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KumkumRathore28/DSA-/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
@@ -141,6 +142,7 @@
 | [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KumkumRathore28/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
@@ -194,6 +196,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
@@ -232,6 +235,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KumkumRathore28/DSA-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
