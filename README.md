@@ -120,6 +120,7 @@
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/KumkumRathore28/DSA-/tree/master/0520-detect-capital) |
+| [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -468,4 +470,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
