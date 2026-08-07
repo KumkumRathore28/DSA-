@@ -35,6 +35,7 @@
 | [0134-gas-station](https://github.com/KumkumRathore28/DSA-/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
@@ -72,6 +73,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
@@ -186,6 +188,7 @@
 | [0075-sort-colors](https://github.com/KumkumRathore28/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/KumkumRathore28/DSA-/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
@@ -199,6 +202,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
@@ -230,6 +234,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -474,4 +479,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
