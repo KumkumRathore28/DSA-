@@ -20,6 +20,7 @@
 | [0045-jump-game-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/KumkumRathore28/DSA-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KumkumRathore28/DSA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0056-merge-intervals) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumkumRathore28/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/KumkumRathore28/DSA-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KumkumRathore28/DSA-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -186,6 +188,7 @@
 | [0015-3sum](https://github.com/KumkumRathore28/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KumkumRathore28/DSA-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/KumkumRathore28/DSA-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KumkumRathore28/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
@@ -393,6 +396,7 @@
 | [0006-zigzag-conversion](https://github.com/KumkumRathore28/DSA-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KumkumRathore28/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/KumkumRathore28/DSA-/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/KumkumRathore28/DSA-/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
