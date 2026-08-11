@@ -290,6 +290,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
@@ -310,6 +311,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -344,6 +346,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -374,6 +377,7 @@
 | [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -418,6 +422,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 ## Greedy
 |  |
@@ -498,4 +503,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
