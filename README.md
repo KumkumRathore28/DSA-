@@ -454,6 +454,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/KumkumRathore28/DSA-/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0180-consecutive-numbers) |
 ## Queue
 |  |
