@@ -33,6 +33,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/KumkumRathore28/DSA-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KumkumRathore28/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/KumkumRathore28/DSA-/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KumkumRathore28/DSA-/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
@@ -119,6 +120,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/KumkumRathore28/DSA-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KumkumRathore28/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KumkumRathore28/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KumkumRathore28/DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0213-house-robber-ii) |
