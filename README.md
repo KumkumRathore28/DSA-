@@ -80,6 +80,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/KumkumRathore28/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KumkumRathore28/DSA-/tree/master/0217-contains-duplicate) |
@@ -401,6 +402,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/KumkumRathore28/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/KumkumRathore28/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/KumkumRathore28/DSA-/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
