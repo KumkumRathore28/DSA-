@@ -525,4 +525,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
