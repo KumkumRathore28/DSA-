@@ -96,6 +96,7 @@
 | [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KumkumRathore28/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KumkumRathore28/DSA-/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0070-climbing-stairs) |
@@ -171,6 +172,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
