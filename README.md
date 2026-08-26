@@ -83,6 +83,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/KumkumRathore28/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KumkumRathore28/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
@@ -408,6 +409,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/KumkumRathore28/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/KumkumRathore28/DSA-/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
@@ -441,6 +443,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 ## Greedy
@@ -534,4 +537,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0020-valid-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
