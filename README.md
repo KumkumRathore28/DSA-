@@ -30,6 +30,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KumkumRathore28/DSA-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KumkumRathore28/DSA-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KumkumRathore28/DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -384,6 +386,7 @@
 | [0040-combination-sum-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KumkumRathore28/DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/KumkumRathore28/DSA-/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
