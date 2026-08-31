@@ -69,6 +69,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KumkumRathore28/DSA-/tree/master/1929-concatenation-of-array) |
@@ -201,6 +202,7 @@
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -222,6 +224,7 @@
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
