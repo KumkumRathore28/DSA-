@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -406,6 +407,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumkumRathore28/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KumkumRathore28/DSA-/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/KumkumRathore28/DSA-/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
