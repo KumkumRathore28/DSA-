@@ -37,6 +37,7 @@
 | [0120-triangle](https://github.com/KumkumRathore28/DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumkumRathore28/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/KumkumRathore28/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KumkumRathore28/DSA-/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KumkumRathore28/DSA-/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/KumkumRathore28/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/KumkumRathore28/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
@@ -521,6 +523,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KumkumRathore28/DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KumkumRathore28/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
