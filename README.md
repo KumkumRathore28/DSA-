@@ -134,6 +134,7 @@
 | [0091-decode-ways](https://github.com/KumkumRathore28/DSA-/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/KumkumRathore28/DSA-/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/KumkumRathore28/DSA-/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/KumkumRathore28/DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumkumRathore28/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -450,6 +451,7 @@
 | [0067-add-binary](https://github.com/KumkumRathore28/DSA-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/KumkumRathore28/DSA-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/KumkumRathore28/DSA-/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/KumkumRathore28/DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/KumkumRathore28/DSA-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
