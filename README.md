@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/KumkumRathore28/DSA-/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
@@ -144,6 +145,7 @@
 | [0213-house-robber-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/KumkumRathore28/DSA-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
