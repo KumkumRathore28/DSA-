@@ -63,6 +63,7 @@
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
+| [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
@@ -145,6 +146,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -578,4 +580,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KumkumRathore28/DSA-/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
