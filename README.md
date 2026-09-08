@@ -69,6 +69,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
 | [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
@@ -237,6 +238,7 @@
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
@@ -261,6 +263,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KumkumRathore28/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
+| [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -493,6 +496,7 @@
 | [0179-largest-number](https://github.com/KumkumRathore28/DSA-/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
 ## Graph Theory
 |  |
