@@ -66,6 +66,7 @@
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
@@ -150,6 +151,7 @@
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -233,6 +235,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -487,6 +490,7 @@
 | [0134-gas-station](https://github.com/KumkumRathore28/DSA-/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/KumkumRathore28/DSA-/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
+| [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 ## Graph Theory
 |  |
 | ------- |
