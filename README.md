@@ -352,6 +352,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -367,6 +368,7 @@
 | [0100-same-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/KumkumRathore28/DSA-/tree/master/0130-surrounded-regions) |
@@ -394,6 +396,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -408,6 +411,7 @@
 | [0101-symmetric-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/KumkumRathore28/DSA-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/KumkumRathore28/DSA-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
