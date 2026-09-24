@@ -5,21 +5,17 @@ public:
 
         for (auto &interval : intervals) {
             if (interval[1] < newInterval[0]) {
-                // Current interval is completely before newInterval
                 ans.push_back(interval);
             }
             else if (interval[0] > newInterval[1]) {
-                // Current interval is completely after newInterval
                 ans.push_back(newInterval);
                 newInterval = interval;
             }
             else {
-                // Overlapping intervals
                 newInterval[0] = min(newInterval[0], interval[0]);
                 newInterval[1] = max(newInterval[1], interval[1]);
             }
         }
-
         ans.push_back(newInterval);
         return ans;
     }
