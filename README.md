@@ -82,6 +82,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KumkumRathore28/DSA-/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KumkumRathore28/DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KumkumRathore28/DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KumkumRathore28/DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KumkumRathore28/DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Graph Theory
 |  |
 | ------- |
