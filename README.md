@@ -549,6 +549,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/KumkumRathore28/DSA-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KumkumRathore28/DSA-/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/KumkumRathore28/DSA-/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0180-consecutive-numbers) |
