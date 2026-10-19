@@ -110,6 +110,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KumkumRathore28/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -462,6 +463,7 @@
 | [0239-sliding-window-maximum](https://github.com/KumkumRathore28/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KumkumRathore28/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -507,6 +509,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/KumkumRathore28/DSA-/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KumkumRathore28/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
