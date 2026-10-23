@@ -130,6 +130,7 @@
 | [0263-ugly-number](https://github.com/KumkumRathore28/DSA-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/KumkumRathore28/DSA-/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumkumRathore28/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0326-power-of-three](https://github.com/KumkumRathore28/DSA-/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KumkumRathore28/DSA-/tree/master/0509-fibonacci-number) |
