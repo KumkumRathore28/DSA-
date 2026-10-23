@@ -433,6 +433,7 @@
 | [0133-clone-graph](https://github.com/KumkumRathore28/DSA-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -448,6 +449,7 @@
 | [0078-subsets](https://github.com/KumkumRathore28/DSA-/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
