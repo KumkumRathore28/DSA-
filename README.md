@@ -133,6 +133,7 @@
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KumkumRathore28/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KumkumRathore28/DSA-/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/KumkumRathore28/DSA-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
@@ -325,6 +326,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
+| [0367-valid-perfect-square](https://github.com/KumkumRathore28/DSA-/tree/master/0367-valid-perfect-square) |
 ## Binary Indexed Tree
 |  |
 | ------- |
