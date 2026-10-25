@@ -237,6 +237,7 @@
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -516,6 +517,7 @@
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
