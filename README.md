@@ -128,6 +128,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KumkumRathore28/DSA-/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/KumkumRathore28/DSA-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumkumRathore28/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/KumkumRathore28/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KumkumRathore28/DSA-/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
@@ -360,6 +362,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0445-add-two-numbers-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/2390-removing-stars-from-a-string) |
@@ -520,6 +523,7 @@
 | [0115-distinct-subsequences](https://github.com/KumkumRathore28/DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/KumkumRathore28/DSA-/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
