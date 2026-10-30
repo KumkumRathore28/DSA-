@@ -129,6 +129,7 @@
 | [0189-rotate-array](https://github.com/KumkumRathore28/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KumkumRathore28/DSA-/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/KumkumRathore28/DSA-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KumkumRathore28/DSA-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
@@ -181,6 +182,7 @@
 | [0002-add-two-numbers](https://github.com/KumkumRathore28/DSA-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumkumRathore28/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/KumkumRathore28/DSA-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KumkumRathore28/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KumkumRathore28/DSA-/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
@@ -217,6 +219,7 @@
 | [0136-single-number](https://github.com/KumkumRathore28/DSA-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KumkumRathore28/DSA-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KumkumRathore28/DSA-/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/KumkumRathore28/DSA-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KumkumRathore28/DSA-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0371-sum-of-two-integers) |
