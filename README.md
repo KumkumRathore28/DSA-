@@ -67,6 +67,7 @@
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/KumkumRathore28/DSA-/tree/master/0330-patching-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/KumkumRathore28/DSA-/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -108,6 +109,7 @@
 | [0264-ugly-number-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -245,6 +247,7 @@
 | [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -266,6 +269,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
@@ -333,6 +337,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KumkumRathore28/DSA-/tree/master/0367-valid-perfect-square) |
 ## Binary Indexed Tree
 |  |
