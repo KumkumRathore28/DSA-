@@ -396,6 +396,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KumkumRathore28/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0437-path-sum-iii) |
@@ -416,6 +417,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/KumkumRathore28/DSA-/tree/master/0404-sum-of-left-leaves) |
@@ -444,6 +446,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KumkumRathore28/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KumkumRathore28/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0437-path-sum-iii) |
@@ -486,6 +489,7 @@
 | [0099-recover-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -694,4 +698,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KumkumRathore28/DSA-/tree/master/0204-count-primes) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
