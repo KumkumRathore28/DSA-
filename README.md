@@ -82,6 +82,7 @@
 | [0912-sort-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/KumkumRathore28/DSA-/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
@@ -249,6 +250,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/KumkumRathore28/DSA-/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumkumRathore28/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -706,4 +708,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/KumkumRathore28/DSA-/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
