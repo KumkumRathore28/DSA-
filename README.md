@@ -75,6 +75,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/KumkumRathore28/DSA-/tree/master/0502-ipo) |
+| [0643-maximum-average-subarray-i](https://github.com/KumkumRathore28/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/KumkumRathore28/DSA-/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -500,6 +501,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KumkumRathore28/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/KumkumRathore28/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KumkumRathore28/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Linked List
