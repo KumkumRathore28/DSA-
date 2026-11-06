@@ -84,6 +84,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumkumRathore28/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/KumkumRathore28/DSA-/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
@@ -343,6 +344,7 @@
 | [0327-count-of-range-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KumkumRathore28/DSA-/tree/master/0367-valid-perfect-square) |
+| [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -503,6 +505,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/KumkumRathore28/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KumkumRathore28/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KumkumRathore28/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
@@ -618,6 +621,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
 |  |
