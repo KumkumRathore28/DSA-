@@ -86,6 +86,7 @@
 | [0986-interval-list-intersections](https://github.com/KumkumRathore28/DSA-/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KumkumRathore28/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1710-maximum-units-on-a-truck](https://github.com/KumkumRathore28/DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/KumkumRathore28/DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KumkumRathore28/DSA-/tree/master/1929-concatenation-of-array) |
@@ -181,6 +182,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/KumkumRathore28/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/KumkumRathore28/DSA-/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KumkumRathore28/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KumkumRathore28/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KumkumRathore28/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KumkumRathore28/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
