@@ -574,6 +574,7 @@
 | [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
+| [0933-number-of-recent-calls](https://github.com/KumkumRathore28/DSA-/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -621,6 +622,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KumkumRathore28/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/KumkumRathore28/DSA-/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -731,4 +733,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/KumkumRathore28/DSA-/tree/master/0986-interval-list-intersections) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/KumkumRathore28/DSA-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
