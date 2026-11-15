@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KumkumRathore28/DSA-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/KumkumRathore28/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/KumkumRathore28/DSA-/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KumkumRathore28/DSA-/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -573,6 +574,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/KumkumRathore28/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0933-number-of-recent-calls](https://github.com/KumkumRathore28/DSA-/tree/master/0933-number-of-recent-calls) |
 ## Greedy
@@ -630,6 +632,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KumkumRathore28/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KumkumRathore28/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KumkumRathore28/DSA-/tree/master/1480-running-sum-of-1d-array) |
