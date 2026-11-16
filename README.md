@@ -409,6 +409,7 @@
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KumkumRathore28/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
@@ -430,6 +431,7 @@
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/KumkumRathore28/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -459,6 +461,7 @@
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KumkumRathore28/DSA-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/KumkumRathore28/DSA-/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
@@ -473,6 +476,7 @@
 | [0133-clone-graph](https://github.com/KumkumRathore28/DSA-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/KumkumRathore28/DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KumkumRathore28/DSA-/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KumkumRathore28/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -556,6 +560,7 @@
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KumkumRathore28/DSA-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KumkumRathore28/DSA-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/KumkumRathore28/DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -574,6 +579,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/KumkumRathore28/DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/KumkumRathore28/DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/KumkumRathore28/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0933-number-of-recent-calls](https://github.com/KumkumRathore28/DSA-/tree/master/0933-number-of-recent-calls) |
