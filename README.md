@@ -72,6 +72,7 @@
 | [0377-combination-sum-iv](https://github.com/KumkumRathore28/DSA-/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/KumkumRathore28/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KumkumRathore28/DSA-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/KumkumRathore28/DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/KumkumRathore28/DSA-/tree/master/0486-predict-the-winner) |
@@ -118,6 +119,7 @@
 | [0290-word-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -234,6 +236,7 @@
 | [0268-missing-number](https://github.com/KumkumRathore28/DSA-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KumkumRathore28/DSA-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KumkumRathore28/DSA-/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -698,6 +701,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KumkumRathore28/DSA-/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KumkumRathore28/DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
