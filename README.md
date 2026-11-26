@@ -573,6 +573,7 @@
 | [0394-decode-string](https://github.com/KumkumRathore28/DSA-/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumkumRathore28/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumkumRathore28/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/KumkumRathore28/DSA-/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/KumkumRathore28/DSA-/tree/master/1143-longest-common-subsequence) |
@@ -754,4 +755,16 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/KumkumRathore28/DSA-/tree/master/0933-number-of-recent-calls) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KumkumRathore28/DSA-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
