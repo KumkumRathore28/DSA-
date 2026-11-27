@@ -111,6 +111,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KumkumRathore28/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KumkumRathore28/DSA-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/KumkumRathore28/DSA-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/KumkumRathore28/DSA-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KumkumRathore28/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
@@ -560,6 +561,7 @@
 | [0115-distinct-subsequences](https://github.com/KumkumRathore28/DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KumkumRathore28/DSA-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/KumkumRathore28/DSA-/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/KumkumRathore28/DSA-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumkumRathore28/DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/KumkumRathore28/DSA-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/KumkumRathore28/DSA-/tree/master/0242-valid-anagram) |
